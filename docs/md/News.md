@@ -1,6 +1,5 @@
- K22B- -the world’s first SLG + RPG strategy blockchain game        
 
-
+| |                                                              |                                                              |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 序号                                                        | 媒体                                                         | 链接                                                         |
 | 1                                                           | 世界发展新闻社                                               | http://www.wdpp.org/press-release/k22b-the-worlds-first-slg-rpg-strategy-blockchain-game-30464/ |
